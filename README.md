@@ -2,6 +2,7 @@
 IoT Course Project
 
 IMPLEMENTED ATTRIBUTES
+
 ● Automatically lid will open whenever a person comes near to it and closes
 when the person goes away.
 ● Collects the dustbin status (Garbage level), sends the data to the cloud server
