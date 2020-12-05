@@ -28,3 +28,5 @@ even when a person comes nearby.
 ● Information of smart dustbin can be accessed from any location and from
 anywhere by the concerned municipal authority and can take necessary
 action.
+
+![Alt text](khbkd.jpg)
